@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127946657391",
+    "project_id": "rafa-dev-apps-db-carros",
+    "storage_bucket": "rafa-dev-apps-db-carros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127946657391:android:2c77ad6e1110ff3bc0479a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cadastro_carros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127946657391-k8kbhmrkb6r2v31q9fndhpljbiagro4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBksFCPovL9Jmjjejt_F3BItcsYG2oJK_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127946657391-k8kbhmrkb6r2v31q9fndhpljbiagro4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
