@@ -4,6 +4,4 @@ Um simples app para testar conceitos de gravação e visualização de dados no 
 
 ## Imagens
 
-![Screenshot](screenshot_1.png)
-![Screenshot](screenshot_2.png)
-![Screenshot](screenshot_3.png)
+![Screenshot](screenshot.png)
